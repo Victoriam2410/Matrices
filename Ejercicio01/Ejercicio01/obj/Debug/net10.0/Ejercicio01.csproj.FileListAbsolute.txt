@@ -1,0 +1,14 @@
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\bin\Debug\net10.0\Ejercicio01.exe
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\bin\Debug\net10.0\Ejercicio01.deps.json
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\bin\Debug\net10.0\Ejercicio01.runtimeconfig.json
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\bin\Debug\net10.0\Ejercicio01.dll
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\bin\Debug\net10.0\Ejercicio01.pdb
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\Ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\Ejercicio01.AssemblyInfoInputs.cache
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\Ejercicio01.AssemblyInfo.cs
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\Ejercicio01.csproj.CoreCompileInputs.cache
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\Ejercicio01.dll
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\refint\Ejercicio01.dll
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\Ejercicio01.pdb
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\Ejercicio01.genruntimeconfig.cache
+E:\programacion Primer semestre\Matrices\Ejercicio01\Ejercicio01\obj\Debug\net10.0\ref\Ejercicio01.dll
